@@ -1,4 +1,4 @@
-# uno_game
+# Uno game
 
 ### you have to install following libraries in order to be able to run the game
 
